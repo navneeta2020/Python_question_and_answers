@@ -1,2 +1,2 @@
-# VN2_T07_Python
+# Python
 Interview question and answers in Python
